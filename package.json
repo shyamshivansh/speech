@@ -1,0 +1,54 @@
+{
+  
+  "dependencies": {
+  
+    
+  "@google-cloud/speech": "^6.1.1",
+  
+    
+  "@google-cloud/storage": "^7.7.0",
+  
+    
+  "axios": "^1.6.3",
+  
+    
+  "cheerio": "^1.0.0-rc.12",
+  
+    
+  "child_process": "^1.0.2",
+  
+    
+  "docxtemplater": "^3.12.0",
+  
+    
+  "jspdf": "^2.5.1",
+  
+    
+  "jspdf-autotable": "^3.8.1",
+  
+    
+  "jszip": "^3.10.1",
+  
+    
+  "mic": "^2.1.2",
+  
+    
+  "microsoft-cognitiveservices-speech-sdk": "^1.34.0",
+  
+    
+  "officegen": "^0.6.5",
+  
+    
+  "path": "^0.12.7",
+  
+    
+  "play-sound": "^1.1.6",
+  
+    
+  "util": "^0.12.5",
+  
+    
+  "wav": "^1.0.2"
+  
+  }
+}
